@@ -2,9 +2,8 @@
 ========
 
 Monte Carlo Simulation for financial project evaluation
-————————————————————————
 
-mcdim is meant to become a Monte Carlo Simulation program for financial modeling. The user must have the option to model each financial variable with the
+mcsim is meant to become a Monte Carlo Simulation program for financial modeling. The user must have the option to model each financial variable with the
 - normal distribution, 
 - lognormal distribution
 - uniform distribution, or 
